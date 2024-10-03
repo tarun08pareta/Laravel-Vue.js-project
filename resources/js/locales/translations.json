@@ -1,0 +1,40 @@
+{
+    "en": {
+      "Products List": "Products List",
+      "Copy Data": "Copy Data",
+      "Download CSV File": "Download CSV File",
+      "Items per page:": "Items per page:",
+      "Search by product name:": "Search by product name:",
+      "Filter by category:": "Filter by category:",
+      "Filter by condition:": "Filter by condition:",
+      "Sort by price:": "Sort by price:",
+      "Apply Filter": "Apply Filter",
+      "Reset Filter": "Reset Filter",
+      "Active": "Active",
+      "Inactive": "Inactive",
+      "View": "View",
+      "Edit": "Edit",
+      "Delete": "Delete",
+      "Previous": "Previous",
+      "Next": "Next"
+    },
+    "hi": {
+      "Products List": "उत्पादों की सूची",
+      "Copy Data": "डेटा कॉपी करें",
+      "Download CSV File": "CSV फ़ाइल डाउनलोड करें",
+      "Items per page:": "प्रति पृष्ठ आइटम:",
+      "Search by product name:": "उत्पाद नाम से खोजें:",
+      "Filter by category:": "श्रेणी द्वारा फ़िल्टर करें:",
+      "Filter by condition:": "स्थिति द्वारा फ़िल्टर करें:",
+      "Sort by price:": "मूल्य द्वारा क्रमबद्ध करें:",
+      "Apply Filter": "फ़िल्टर लागू करें",
+      "Reset Filter": "फ़िल्टर रीसेट करें",
+      "Active": "सक्रिय",
+      "Inactive": "निष्क्रिय",
+      "View": "देखें",
+      "Edit": "संपादित करें",
+      "Delete": "हटाएं",
+      "Previous": "पिछला",
+      "Next": "अगला"
+    }
+  }

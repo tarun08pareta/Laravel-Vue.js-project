@@ -1,0 +1,23 @@
+{
+    "products": {
+      "title": "Liste des produits",
+      "copyData": "Copier les données",
+      "downloadCsv": "Télécharger le fichier CSV",
+      "itemsPerPage": "Articles par page :",
+      "searchByProduct": "Rechercher par nom de produit :",
+      "filterByCategory": "Filtrer par catégorie :",
+      "filterByCondition": "Filtrer par état :",
+      "sortByPrice": "Trier par prix :",
+      "applyFilter": "Appliquer le filtre",
+      "resetFilter": "Réinitialiser le filtre",
+      "all": "TOUS",
+      "active": "Actif",
+      "inactive": "Inactif",
+      "view": "Voir",
+      "edit": "Modifier",
+      "delete": "Supprimer",
+      "uploading": "Téléchargement...",
+      "importData": "Importer des données",
+      "order": "Ordre"
+    }
+  }
